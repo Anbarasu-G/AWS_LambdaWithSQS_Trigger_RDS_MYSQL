@@ -1,0 +1,3 @@
+com\techtez\aws\sqslambda\model\College.class
+com\techtez\aws\sqslambda\handler\SqsLambdaHandler.class
+com\techtez\aws\sqslambda\db\DatabaseClient.class
